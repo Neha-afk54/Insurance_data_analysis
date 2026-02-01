@@ -4,6 +4,8 @@ __Project Overview__
 This project presents an interactive Insurance Analytics Dashboard developed using Power BI to analyze key insurance business metrics such as premium collection, coverage exposure, claim distribution, policy status, and customer demographics. The dashboard is designed to support data-driven decision-making for insurance operations, risk assessment, and performance monitoring.
 
 __Objectives__
+
+
 1.Analyze premium, coverage, and claim amounts at a glance.
 2.Monitor active vs inactive policies.
 3Understand claim behavior across policy types and age groups.
