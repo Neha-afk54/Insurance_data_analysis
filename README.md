@@ -10,7 +10,7 @@ __Objectives__
 4.Identify trends in claim status (Pending, Settled, Rejected).
 5.Enable quick filtering by Policy Number, Claim Number, and Customer ID.
 
-![Insurance Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard_preview.jpeg)
 
 __Key KPIs__
 Total Premium Amount: 5.98M
